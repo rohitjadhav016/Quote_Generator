@@ -15,7 +15,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 
 .quote-container{
@@ -65,7 +64,6 @@ button{
     border-radius: 10px;
     outline: none;
     box-shadow: 0.3rem 0.3rem rgba(0, 0, 0, 0.5);
-
 }
 
 button:active{
@@ -103,7 +101,6 @@ button:active{
     .quote-container{
         margin: auto 10px;
     }
-
     .quote-text{
         font-size: 2rem;
     }
